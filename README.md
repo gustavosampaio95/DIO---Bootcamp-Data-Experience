@@ -1,4 +1,3 @@
-READ ME
 O "print" do meu projeto solicitado no desafio 1, mostra como ficaria minha estrutura de BD pra um e-commerce.
 As atividades propostas foram resolvidas da seguinte maneira:
 1.  Foi criada a tabela "Identificação do Cliente", ela possui apenas duas colunas, sendo elas: ID, para funcionar como FK de clientes, e a coluna "número correspondente", onde 0 = PJ e 1 = PF. Para evitar a duplicidade de informações, essa coluna está definida para aceitar dados binários, apenas.
