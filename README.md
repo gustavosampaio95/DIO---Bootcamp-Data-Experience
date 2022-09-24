@@ -16,3 +16,9 @@ No segundo desafio (arquivo "Desafio 2 - Bootcamp Database Experience"), criei u
 1. O arquivo "Desafio 3 - Bootcamp Database DIO - Script Create DB" contém o Script de criação do Bando de Dados.
 2. O arquivo "Desafio 3 - Bootcamp Database DIO - Script Querys" contém as Querys utilizadas para as pesquisas dentro do Banco de Dados.
 3. Foram utilizados os seguintes Statments: Select, Where, Group By, Order By e Having.
+
+## Desafio 4 ##
+1. O arquivo "Desafio 4 - Bootcamp Database DIO - Script Create DB" contém o Script de criação do Bando de Dados.
+2. O arquivo "Desafio 4 - Bootcamp Database DIO - Script Querys" contém as Querys utilizadas para as pesquisas dentro do Banco de Dados.
+3. Foram utilizados os seguintes Statments: Select, Where, Group By, Order By e Having.
+4. A criação deste DB foi totalmente do zero.
