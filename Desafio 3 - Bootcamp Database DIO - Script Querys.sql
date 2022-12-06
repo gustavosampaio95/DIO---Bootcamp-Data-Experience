@@ -15,6 +15,6 @@ select o.statusOrder, o.shippingValue, p.Fname
 select o.statusOrder, pp.totalValue, c.Fname, p.Category
 	from orders o, payment pp, clients c, product p
 	where p.Category = 'Eletrônicos'
-		group by p.Category having (totalValue) > 100;
+		group by p.Category having (totalValue) > 1000;
     
 	

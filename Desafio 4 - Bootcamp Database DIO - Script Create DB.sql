@@ -22,7 +22,7 @@ create table veiculo
 create table cliente
 	(idCliente int auto_increment primary key,
 	idVeiculo int not null,
-    nome varchar (100),
+    Nome varchar (100),
     endereco varchar (250),
     CPF char (11)
     );

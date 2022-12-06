@@ -15,7 +15,7 @@ create table Clients(
 create table Product(
 	idProduct int auto_increment primary key,
     Fname varchar (10) not null,
-	Category enum ('Eletrônico', 'Vestuário', 'Brinquedo', 'Esporte', 'Limpeza') not null,
+	Category enum ('Eletrônicos', 'Vestuário', 'Brinquedo', 'Esporte', 'Limpeza') not null,
     Description char(60),
 	buyValue float,
     sellValue float,
