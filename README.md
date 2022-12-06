@@ -32,3 +32,6 @@ No segundo desafio (arquivo "Desafio 2 - Bootcamp Database Experience"), criei u
   Como seu nome já diz, ela é uma linguagem estruturada, tendo uma forma bem rígida para armazenamento, fazendo a SQL ser uma linguagem padrão de bancos de dados Relacionais; porém, nem sempre esta vai ser a melhor opção para estruturar um BD, pois nem todos os esquemas e estruturas serão relacionais, e quando isso acontece, como fazer para comportar os dados não estruturados, que precisam de mais flexibilidade para serem armazenados? Neste momento, entram os banco de dados não relacionais.
   Os BD não relacionais utilizam a linguagem Not Only SQL (NoSQL), que é uma linguagem que comporta diversos tipos de dados, de diferentes formatos, podendo ser textos, documentos, imagens e uma enorme infinidade de tipos de dados, não sendo caracterizado como um esquema relacional.
   Com isso, para sabermos qual tipo de linguagem utilizaremos em nosso BD, faz-se necessária muita clareza nas intenções do projeto e adaptação à necessidade do mesmo.
+
+
+## Este foi meu primeiro desafio/projeto em SQL, sem vergonha de errar, nem medo ser feliz. Vamos aprimorando para os próximos, e obrigado se chegou até aqui.
